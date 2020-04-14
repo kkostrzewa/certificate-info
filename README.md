@@ -2,6 +2,8 @@
 
 TESTING INSTALLATION INSTRUCTIONS: https://docs.google.com/document/d/1vVJrZ9d2s9c2qIDEr85Fh5r6ohE8L_rfNDErsDS2hp4/edit?usp=sharing
 
+---
+
 A Chrome extension that shows website's certificate validation level on the toolbar and more information in popup window.
 
 [Open in Chrome Web Store](https://chrome.google.com/webstore/detail/certificate-info/jhldepncoippkjgjkmambfglddmjdmaj)
